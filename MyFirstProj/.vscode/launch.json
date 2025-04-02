@@ -1,0 +1,434 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ArrSortedOrNot",
+            "request": "launch",
+            "mainClass": "ArrSortedOrNot",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "MethodOverloadingMain",
+            "request": "launch",
+            "mainClass": "MethodOverloadingMain",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Add",
+            "request": "launch",
+            "mainClass": "Add",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "Addition",
+            "request": "launch",
+            "mainClass": "Addition",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "Aoc",
+            "request": "launch",
+            "mainClass": "Aoc",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "Armstrong",
+            "request": "launch",
+            "mainClass": "Armstrong",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "Arr2d",
+            "request": "launch",
+            "mainClass": "Arr2d",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "ArrLarge",
+            "request": "launch",
+            "mainClass": "ArrLarge",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "ArrMarks",
+            "request": "launch",
+            "mainClass": "ArrMarks",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "ArrSearch",
+            "request": "launch",
+            "mainClass": "ArrSearch",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "ArrSum",
+            "request": "launch",
+            "mainClass": "ArrSum",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Array",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "Break",
+            "request": "launch",
+            "mainClass": "Break",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "Breakdowhile",
+            "request": "launch",
+            "mainClass": "Breakdowhile",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "Days",
+            "request": "launch",
+            "mainClass": "Days",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "Div",
+            "request": "launch",
+            "mainClass": "Div",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "EvenOdd",
+            "request": "launch",
+            "mainClass": "EvenOdd",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "Fact",
+            "request": "launch",
+            "mainClass": "Fact",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "Greater",
+            "request": "launch",
+            "mainClass": "Greater",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "Inc",
+            "request": "launch",
+            "mainClass": "Inc",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "Info",
+            "request": "launch",
+            "mainClass": "Info",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "Pattern",
+            "request": "launch",
+            "mainClass": "Pattern",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "Patternnum",
+            "request": "launch",
+            "mainClass": "Patternnum",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "Patternnum2",
+            "request": "launch",
+            "mainClass": "Patternnum2",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "Purchase",
+            "request": "launch",
+            "mainClass": "Purchase",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "Rev",
+            "request": "launch",
+            "mainClass": "Rev",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "Reverse",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "Studentmain",
+            "request": "launch",
+            "mainClass": "Studentmain",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "SumOdd",
+            "request": "launch",
+            "mainClass": "SumOdd",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "SumTable",
+            "request": "launch",
+            "mainClass": "SumTable",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "Sumeven",
+            "request": "launch",
+            "mainClass": "Sumeven",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "Switchh",
+            "request": "launch",
+            "mainClass": "Switchh",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "Table",
+            "request": "launch",
+            "mainClass": "Table",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "Tablee",
+            "request": "launch",
+            "mainClass": "Tablee",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "Welc",
+            "request": "launch",
+            "mainClass": "Welc",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "asso",
+            "request": "launch",
+            "mainClass": "asso",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "asso2",
+            "request": "launch",
+            "mainClass": "asso2",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "compare",
+            "request": "launch",
+            "mainClass": "compare",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "day",
+            "request": "launch",
+            "mainClass": "day",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "eq",
+            "request": "launch",
+            "mainClass": "eq",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "goodday",
+            "request": "launch",
+            "mainClass": "goodday",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "grade",
+            "request": "launch",
+            "mainClass": "grade",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "ifelse",
+            "request": "launch",
+            "mainClass": "ifelse",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "input",
+            "request": "launch",
+            "mainClass": "input",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "intornot",
+            "request": "launch",
+            "mainClass": "intornot",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "invpyr",
+            "request": "launch",
+            "mainClass": "invpyr",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "literals",
+            "request": "launch",
+            "mainClass": "literals",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "loops",
+            "request": "launch",
+            "mainClass": "loops",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "operators",
+            "request": "launch",
+            "mainClass": "operators",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "rel",
+            "request": "launch",
+            "mainClass": "rel",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "result",
+            "request": "launch",
+            "mainClass": "result",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "rps",
+            "request": "launch",
+            "mainClass": "rps",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "string",
+            "request": "launch",
+            "mainClass": "string",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "stringprac",
+            "request": "launch",
+            "mainClass": "stringprac",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "strmethods",
+            "request": "launch",
+            "mainClass": "strmethods",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "tax",
+            "request": "launch",
+            "mainClass": "tax",
+            "projectName": "MyFirstProj_fc202c31"
+        },
+        {
+            "type": "java",
+            "name": "web",
+            "request": "launch",
+            "mainClass": "web",
+            "projectName": "MyFirstProj_fc202c31"
+        }
+    ]
+}
